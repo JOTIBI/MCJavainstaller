@@ -68,6 +68,6 @@ sudo update-alternatives --config java
 
 ---
 
-## ⚙ Author
-Created by **JOTIBI**  |  Optimized for Minecraft Server Hosting
+## License
+This project is licensed under the CC BY-NC 4.0 License.
 
