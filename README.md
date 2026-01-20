@@ -96,3 +96,6 @@ Du musst **nichts manuell vorbereiten**.
 ```bash
 chmod +x mc-installer.sh
 ./mc-installer.sh
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I61SOC0C)
