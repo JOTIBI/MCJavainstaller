@@ -5,6 +5,8 @@ Der Fokus liegt auf **Korrektheit, Transparenz, Debugbarkeit und Kontrolle**.
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I61SOC0C)
+
 ## Inhaltsverzeichnis
 
 - Überblick
@@ -97,4 +99,3 @@ Du musst **nichts manuell vorbereiten**.
 chmod +x mc-installer.sh
 ./mc-installer.sh
 ```
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I61SOC0C)
