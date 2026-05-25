@@ -4,7 +4,7 @@ This script provides an automated installation process for multiple Java version
 
 **Author:** JOTIBI, Cursor AI
 
-*(Yes, I used AI, but I don't care because if something gets the job done for you, it doesn't matter whether AI wrote the code or not.)*
+*(Yes, I used **AI**, but I don't care because if something gets the job done for you, it doesn't matter whether AI wrote the code or not.)*
 
 ---
 
