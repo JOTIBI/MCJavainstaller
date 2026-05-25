@@ -3,6 +3,7 @@
 This script provides an automated installation process for multiple Java versions on Debian-based Linux systems, optimized for running Minecraft servers. You can install several JDKs side by side and choose which one is used system-wide (`java`, `javac`, `JAVA_HOME`, `PATH`).
 
 **Author:** JOTIBI, Cursor AI
+
 *(Yes, I used AI, but I don't care because if something gets the job done for you, it doesn't matter whether AI wrote the code or not.)*
 
 ---
